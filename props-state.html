@@ -46,16 +46,18 @@
         }
     });
     const Input = React.createClass({
-
-        add:function () {
-            const item=  $("#text").val();
-            this.props.onAdd(item)
+        
+        add:function (e) {
+            if(e.keyCode===13) {
+                const item = e.target.value;
+                this.props.onAdd(item);
+                e.target.value = '';
+            }
         },
         render: function(){
             return (
                 <div>
-                    <input type="text" id="text"/>
-                    <button onClick={this.add}>+</button>
+                    <input onKeyUp={this.add.bind(this)}type="text" id="text"/>
                 </div>
             )
         }

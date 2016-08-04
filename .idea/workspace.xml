@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d55ce93-6204-48cd-b755-670368c6f243" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/props-state.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/props-state.html" afterPath="$PROJECT_DIR$/props-state.html" />
     </list>
     <ignored path="react-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +28,8 @@
       <file leaf-file-name="props-state.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/props-state.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+            <state relative-caret-position="154">
+              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -62,8 +60,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/props-state.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/props-state.html" />
       </list>
     </option>
   </component>
@@ -226,12 +224,12 @@
       <option name="presentableId" value="Default" />
       <updated>1470277903559</updated>
       <workItem from="1470277905118" duration="13000" />
-      <workItem from="1470278063607" duration="1295000" />
+      <workItem from="1470278063607" duration="3893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1308000" />
+    <option name="totallyTimeSpent" value="3906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -281,8 +279,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/props-state.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+        <state relative-caret-position="154">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
           <folding />
         </state>
       </provider>
